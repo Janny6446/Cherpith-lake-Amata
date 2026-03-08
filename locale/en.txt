@@ -1,0 +1,54 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_16F33344_797E_E438_41BE_1F2718037615.text = 20.7 กม. 32นาที
+HotspotPanoramaOverlayTextImage_0D065600_79BD_6C38_41A3_C196F137B290.text = 9.2 กม. 20 นาที
+HotspotPanoramaOverlayTextImage_16F9278E_7953_EC48_41BA_D85D7EBBAA8C.text = ซอยเทศบาล 7
+HotspotPanoramaOverlayTextImage_1775C859_7955_64C8_41AB_587D1FEB983F.text = ซอยเทศบาล 7
+HotspotPanoramaOverlayTextImage_082639F3_7975_67D8_41D4_57452428EEA9.text = ถนน ศุขประยูร
+HotspotPanoramaOverlayTextImage_15BC7739_797D_6C48_41AA_ABF4C13C9457.text = สะพานชลมารควิถี
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_D0485EBC_CC25_EA92_41D8_DBC11037A278.url = media/map_13241D1E_78D5_5C48_41CE_E86E471F2D2C_en_0.webp
+imlevel_D0486EBD_CC25_EA92_41A4_0A96094710BF.url = media/map_13241D1E_78D5_5C48_41CE_E86E471F2D2C_en_1.webp
+imlevel_D0487EBD_CC25_EA92_41C2_027EEEA4B52F.url = media/map_13241D1E_78D5_5C48_41CE_E86E471F2D2C_en_2.webp
+imlevel_D04B8EBD_CC25_EA92_41CE_FC38343325ED.url = media/map_13241D1E_78D5_5C48_41CE_E86E471F2D2C_en_3.webp
+imlevel_0B787AA2_7976_E478_41D1_8C1174DC1B6C.url = media/panorama_14AB9E02_78F7_5C38_41D5_8E4583EE323C_HS_4dp7x2bs_en.webp
+imlevel_0B6319A1_7976_E478_41C8_4C4242944A53.url = media/panorama_14AB9E02_78F7_5C38_41D5_8E4583EE323C_HS_h1uddbag_en.webp
+imlevel_0B7D0A25_7976_E478_41CA_E66AC6CB924C.url = media/panorama_14AB9E02_78F7_5C38_41D5_8E4583EE323C_HS_nv6cm68j_en.webp
+imlevel_0CE6A971_7976_E4D8_41B8_2E10B99E5021.url = media/panorama_14AB9E02_78F7_5C38_41D5_8E4583EE323C_HS_s56g9c2q_en.webp
+imlevel_0B79CA6C_7976_E4C8_41C0_D3D11770EC57.url = media/panorama_14AB9E02_78F7_5C38_41D5_8E4583EE323C_HS_xj8065iu_en.webp
+imlevel_D032E82A_CC25_D5B6_41DF_B289E8409220.url = media/panorama_14AB9E02_78F7_5C38_41D5_8E4583EE323C_HS_ysx3yjue_en.webp
+
+### Title
+map_13241D1E_78D5_5C48_41CE_E86E471F2D2C.label = Compass Rose Silver.I01.2k
+panorama_150D3FF4_78F5_DBD8_41B6_C94FB3201CDC.label = DJI_20250610161839_0085_D
+panorama_14AB9E02_78F7_5C38_41D5_8E4583EE323C.label = DJI_20250610162014_0086_D
+video_087E4CBA_7975_3C48_41D2_1624FA674141.label = snaptik_7469761974994210056_v2
+
+### Video
+videolevel_08C372EA_796F_25C8_41D0_68BBB08A74DF.url = media/video_087E4CBA_7975_3C48_41D2_1624FA674141_en.mp4
+videolevel_08C372EA_796F_25C8_41D0_68BBB08A74DF.posterURL = media/video_087E4CBA_7975_3C48_41D2_1624FA674141_poster_en.jpg
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_168894D1_7972_EDD8_41AC_9FF1FAC1BF2E.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Title
+window_168A44D1_7972_EDD8_41D0_BDF870AA4C50.title = {{style:vimagebg-rounded-light}}
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Cherpith lake Amata
